@@ -1,0 +1,38 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+.title{
+background-color: #f50;
+
+padding: 5px 0;
+margin: 5px 0;
+}
+.game{
+
+text-align: center;
+width: 255px;
+margin: auto;
+font-weight: 800;
+}
+span{
+    color: yellow;
+}
+.sq{
+width: 80px;
+height:80px;
+float: left;
+background-color: #f50;
+margin: 2px;
+color: #fff;
+font-size: 50px;
+text-align: center;
+}
+
+
+.sq:hover{
+
+    background-color: #000;
+    
+}
